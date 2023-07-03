@@ -1,0 +1,72 @@
+.container {
+    width: 40%;
+    height: 150px;
+    background-color: rgb(33, 56, 56);
+    margin: auto;
+    margin-top: 50px;
+}
+
+.yazi {
+    width: 330px;
+    height: 40px;
+    margin: auto;
+
+}
+
+h1 {
+    text-align: center;
+    color: antiquewhite;
+
+}
+
+ul {
+    list-style: none;
+}
+
+.kutular {
+    margin: auto;
+    width: 40%;
+    margin-top: 10px;
+    height: 100px;
+
+}
+
+
+.kutu1 {
+    background-color: darkcyan;
+    width: 230px;
+    float: left;
+    padding: 0;
+    text-align: center;
+    height: 80px;
+    padding: 10 10 10 10;
+    margin: auto;
+    margin-left: 20px;
+    padding-top: 10px;
+
+
+}
+
+.kutu2 {
+    background-color: darkcyan;
+    width: 230px;
+    float: left;
+    padding: 0;
+    text-align: center;
+    height: 80px;
+    padding: 10 10 10 10;
+    margin: auto;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+
+.kutu3 {
+    background-color: darkcyan;
+    width: 230px;
+    float: left;
+    text-align: center;
+    height: 90px;
+    margin: auto;
+    margin-left: 20px;
+
+}
